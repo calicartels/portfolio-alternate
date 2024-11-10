@@ -1,3 +1,5 @@
+import "@/scss/globals.css";
+import "@/scss/index.scss";
 import type { AppProps } from "next/app";
 import { Raleway, Fira_Code } from "next/font/google";
 
@@ -16,6 +18,7 @@ export default function App({ Component, pageProps }: AppProps) {
           --fira-code: ${firaCode.style.fontFamily};
         }
       `}</style>
+      <Component {...pageProps} />
     </>
   );
 }
