@@ -30,7 +30,7 @@ function About() {
           <p className="about-grid-info-text">
           Hi, my name is Vishnu,
 I am an AI Enineer and a Data scientist
-I'm passionate in the disciplines of Data Science, Artificial Engineering, & Computer Vision.
+I am passionate in the disciplines of Data Science, Artificial Engineering, & Computer Vision.
           </p>
           <p className="about-grid-info-text">
           I am currently pursuing my MEng in Artificial Intelligence for Product Innovation at 
@@ -46,7 +46,7 @@ I'm passionate in the disciplines of Data Science, Artificial Engineering, & Com
             all things ML.
           </p>
           <p className="about-grid-info-text">
-            Here are a few technologies I’ve been working with recently:
+            Here are a few technologies I have been working with recently:
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">Numpy</li>
