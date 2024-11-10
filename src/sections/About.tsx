@@ -29,7 +29,7 @@ function About() {
         <div className="about-grid-info">
           <p className="about-grid-info-text">
           Hi, my name is Vishnu,
-I am an AI Enineer and a Data scientist
+I am an AI Engineer and a Data scientist
 I am passionate in the disciplines of Data Science, Artificial Engineering, & Computer Vision.
           </p>
           <p className="about-grid-info-text">
