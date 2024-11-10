@@ -1,4 +1,8 @@
 
+## Access the website here :
+
+https://sourcing-510-portfolio.netlify.app/
+
 
 ## Technologies Used
 
@@ -12,7 +16,7 @@ The following technologies were used to create this portfolio:
 
 
 
-## 🛠 Installation & Set Up
+## Installation & Set Up
 
 
 1. Install dependencies
@@ -27,7 +31,7 @@ The following technologies were used to create this portfolio:
    yarn dev
    ```
 
-## 🚀 Building and Running for Production
+##  Building and Running for Production
 
 1. Generate a full static production build
 
